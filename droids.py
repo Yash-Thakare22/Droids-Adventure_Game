@@ -5,7 +5,7 @@ import random
 from random import randint
 
 print('\n' * 100)
-print('\n\n[-Droids : by Dhairya Pratik And Yash : type help-]')
+print('\n\n[-Droids : by Yash : type help-]')
 print('\n\n\n------------------------')
 print('        DROIDS')
 print('------------------------')
